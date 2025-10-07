@@ -14,11 +14,9 @@ header {
     text-align: right;
     border: 2px solid rgb(0, 0, 0);  
     border-radius: 50px;
-    max-width: 474px;
-    margin-left: 135px;
     font-size: 36px;
     background-color: #DDDDDD;
-    padding-right: 5px;
+    padding-right: 20px;
 }
 
 .blok1-2{
@@ -29,9 +27,8 @@ header {
     width: 250px ;
     height: 250px;
     float: left;
-    padding-left: 30px;
-    padding-top: 10px;
-    margin: 0;
+    padding-left: 50px;
+    padding-top: 20px;
 }
 .hara {
 text-align: center;
